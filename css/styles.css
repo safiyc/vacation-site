@@ -1,5 +1,6 @@
 .places {
-  width: 50%;
+  width: 100px;
+  height: 100px;
 
 }
 
@@ -10,9 +11,6 @@ ul {
   list-style: none;
 }
 
-#location {
-  /*text-align: center;*/
-}
 
 * {
   text-align: center;
@@ -20,4 +18,8 @@ ul {
 
 .paragraph {
   text-align: justify;
+}
+
+.packages {
+  background-image: image("sand.jpeg");
 }
