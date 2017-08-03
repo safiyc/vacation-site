@@ -1,3 +1,23 @@
 .places {
   width: 50%;
+
+}
+
+.names {
+  font-size: 30px;
+}
+ul {
+  list-style: none;
+}
+
+#location {
+  /*text-align: center;*/
+}
+
+* {
+  text-align: center;
+}
+
+.paragraph {
+  text-align: justify;
 }
