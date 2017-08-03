@@ -1,4 +1,4 @@
-.places {
+.image {
   width: 100px;
   height: 100px;
 
@@ -20,6 +20,7 @@ ul {
   text-align: justify;
 }
 
-.packages {
-  background-image: image("sand.jpeg");
+.package-detail {
+  font-size: 15px;
+  text-align: center;
 }
